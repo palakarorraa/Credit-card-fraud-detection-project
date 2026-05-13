@@ -80,6 +80,11 @@ Further improvements can be made using advanced techniques like Deep Learning or
 
 ---
 
+## Note
+Dataset not uploaded due to GitHub file size limitations.
+
+---
+
 ## 👩‍💻 Author
 
 **Palak Arora**
